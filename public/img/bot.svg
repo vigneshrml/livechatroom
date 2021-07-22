@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2695.75" height="2695.75" viewBox="0 0 2695.75 2695.75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-2 {
+        fill: #feffff;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+      }
+
+      .cls-4 {
+        fill: #333;
+      }
+
+      .cls-5 {
+        fill: #303030;
+      }
+
+      .cls-6 {
+        fill: #2fbeaf;
+      }
+
+      .cls-7 {
+        fill: #e6e6e6;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="397.47" y1="397.47" x2="2303.66" y2="2303.66" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6ecf60"/>
+      <stop offset="1" stop-color="#169fcb"/>
+    </linearGradient>
+  </defs>
+  <title>Avatar_Autodesk_HelpBot</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_2-2" data-name="Layer 2">
+      <circle class="cls-1" cx="1347.88" cy="1347.88" r="1347.88"/>
+      <g>
+        <path class="cls-2" d="M1569.39,712.15H1131.33c-326.37,0-590.95,264.58-590.95,590.95s264.58,591,590.95,591h438.06c326.37,0,590.94-264.58,590.94-590.95S1895.76,712.15,1569.39,712.15Z"/>
+        <path class="cls-3" d="M1569.39,1894.05c326.37,0,590.94-264.58,590.94-590.95s-264.57-590.95-590.94-590.95H1345.87V2071.44S1565.41,1890.07,1569.39,1894.05Z"/>
+        <path class="cls-4" d="M1577.87,1085.93H1114.28c-194.88,0-352.87,158-352.87,352.87s158,352.87,352.87,352.87h463.59c194.89,0,352.87-158,352.87-352.87S1772.76,1085.93,1577.87,1085.93Z"/>
+        <path class="cls-5" d="M1346.94,1791.67h230.93c194.89,0,352.87-158,352.87-352.87s-158-352.87-352.87-352.87H1346.94Z"/>
+        <circle class="cls-6" cx="1042.87" cy="1477.16" r="90.47"/>
+        <circle class="cls-6" cx="1661.87" cy="1477.16" r="90.47"/>
+        <path class="cls-7" d="M1471,1572.39a118.67,118.67,0,0,1-237.33,0Z"/>
+        <rect class="cls-2" x="337.09" y="1193.72" width="147.92" height="221.88" rx="52.56"/>
+        <rect class="cls-3" x="2210.74" y="1193.72" width="147.92" height="221.88" rx="52.56"/>
+      </g>
+    </g>
+  </g>
+</svg>
